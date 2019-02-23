@@ -2,7 +2,7 @@
 
 //김영호가 추가 했듬.
 char[] hello() {
-   return "수고했다";
+   return "너잘났다 수고했다";
 }
 
 //master branch 에서 주석을 달았습니다.
