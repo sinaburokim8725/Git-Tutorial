@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//김영호가 추가 했다
+//김영호가 추가 했듬.
 char[] hello() {
    return "수고했다";
 }
