@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+//master c3지점에서 변경
+int master(int a) {
+	return a;
+}
+
 //김영호가 추가 했듬.
 char[] hello() {
    
