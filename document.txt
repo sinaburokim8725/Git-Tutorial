@@ -4,5 +4,5 @@ master 수정
 진짜 develop에서 수정 했음요
 인생은 살아볼만하다 적어도 by master
 사랑은 아름답다 by rebaseTest
-
-
+master 브렌치에서 작업을 하고 커밋하지 않았다
+test 브렌치 수정후 커밋한다.
